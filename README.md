@@ -42,9 +42,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🔑 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
 <p align="center">
-  <a href="https://fzi-47d2ff678688.herokuapp.com/pair">
+  <a href="https://mysterious-bastion-72548-b6fc229d568e.herokuapp.com/pair">
 <p align="center">
-  <a href="https://paring-site-2-0yzl.onrender.com/pair">
+  <a href="https://mysterious-bastion-72548-b6fc229d568e.herokuapp.com/pair">
     <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
