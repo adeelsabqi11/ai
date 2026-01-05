@@ -18,7 +18,7 @@
 <h2 align="center">
    <span style="color:#00FFFF">مــــؔــــافـــــؔــیــــا عــؔــدیــؔـــــل</span> 
 </h2>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=HI 👋 GYS WELL COME ❤️‍🩹 DARK 🌑 MAFIA MD" alt="Typing SVG" /></a>
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=WE'LL%20COME%20❤️‍🩹&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
+</div>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
