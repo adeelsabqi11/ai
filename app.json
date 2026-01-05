@@ -1,8 +1,8 @@
 {
-  "name": "FAIZAN-AI",
-  "description": "Javascript WhatsApp bot made by FAIZAN JUTT",
-  "logo": "https://files.catbox.moe/ejufwa.jpg",
-  "keywords": ["FAIZAN-AI"],
+  "name": "DARK-MAFIA-MD",
+  "description": "Javascript WhatsApp bot made by MAFIA ADEEL",
+  "logo": "https://files.catbox.moe/dm7amn",
+  "keywords": ["MAFIA-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "FAIZAN-AI"
+      "value": "MAFI-MD"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY FAIZAN-AI 🖤*"
+      "value": "*SEEN YOUR STATUS BY MAFIA TECHX 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "*𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃*"
+      "value": "*𝐌ᴀғɪᴀ 𝐀ᴅᴇᴇʟ*"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923266105873"
+      "value": "923348585489"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "FAIZAN-AI"
+      "value": "𝐃ᴀʀᴋ-𝐌ᴀғɪᴀ-𝐌ᴅ"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/ejufwa.jpg"
+      "value": "https://files.catbox.moe/dm7amn"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃 🤍*"
+      "value": "*📌 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ*"
     },
 
       "DELETE_LINKS": {
