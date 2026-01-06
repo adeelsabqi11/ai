@@ -26,8 +26,4 @@
 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p align="center">
-<img src="Shaban/feature-bot.svg" alt="Feature Bot" width="900"/>
-  
-<p align="center">
-<img src="Shaban/license.svg" alt="License" width="200"/>
+
