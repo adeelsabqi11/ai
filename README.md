@@ -30,7 +30,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
   <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000F0&center=true&vCenter=true&width=600&lines=𝐌𝐀𝐅𝐈𝐀" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000F0&center=true&vCenter=true&width=600&lines=ᑕᒪIᑕK+ᑭᗩIᖇ+ᑕOᗪ" alt="Typing Animation">
 </h1>
 <p align="center">
   <a href="https://fzi-47d2ff678688.herokuapp.com/pair">
