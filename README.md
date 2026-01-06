@@ -7,11 +7,10 @@
                font-weight: bold;">
                
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    <h1></h1> align="center">
-   
-<h2 align="center">
-   <span style="color:#00FFFF">𝐃ᴀʀᴋ 𝐌ᴀғɪᴀ 𝐌ᴅ</span> 
-</h2>
+    
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=00FF00&center=true&width=810&height=200&lines=+𝐃ᴀʀᴋ 𝐌ᴀғɪᴀ 𝐌ᴅ" alt="Typing SVG" /></a>
+  </p>
+
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </span>
 </h1>
