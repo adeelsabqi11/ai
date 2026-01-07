@@ -43,3 +43,14 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000F0&center=true&vCenter=true&width=600&lines=💥Click+above+button+to+generate+your+Session+ID+(required+for+deployment)"
 </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000F0&center=true&vCenter=true&width=600&lines=♻️ᗪᗴᑭᒪOY ᗷOT+👇" alt="Typing Animation">
+</h1>
+  
+<p align="center">
+  <a href="[https://fzi-47d2ff678688.herokuapp.com/pair](https://dashboard.heroku.com/new?template=https://github.com/adeelsabqi11/DARK-MAFIA-MD)">
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/adeelsabqi11/DARK-MAFIA-MD">
+    <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
