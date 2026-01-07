@@ -34,9 +34,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://fzi-47d2ff678688.herokuapp.com/pair">
+  <a href="https://mafiapairsite-754e15c4c3b2.herokuapp.com/">
 <p align="center">
-  <a href="https://paring-site-3iio.onrender.com/pair">
+  <a href="https://mafiapairsite-754e15c4c3b2.herokuapp.com">
     <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=green" />
   </a>
 </p>
