@@ -33,6 +33,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000F0&center=true&vCenter=true&width=600&lines=♻️ᑕᒪIᑕK+ᑭᗩIᖇ+ᑕOᗪᗴ+👇" alt="Typing Animation">
 </h1>
 
+<p align="center">
+  <a href="https://fzi-47d2ff678688.herokuapp.com/pair">
+<p align="center">
+  <a href="https://paring-site-3iio.onrender.com/pair">
+    <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=green" />
+  </a>
+</p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000F0&center=true&vCenter=true&width=600&lines=💥Click+above+button+to+generate+your+Session+ID+(required+for+deployment)"
 </h1>
