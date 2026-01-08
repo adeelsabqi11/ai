@@ -25,7 +25,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
 
         // Fetch pairing code
         //const fetch = require("node-fetch");
-        const response = await fetch(`https://mafia-md-pair-web.onrender.com/code?number=${q}`);
+        const response = await fetch(`https://mafiapairsite-754e15c4c3b2.herokuapp.com/code?number=${q}`);
         const pair = await response.json();
 
         // Check for errors in response
