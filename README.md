@@ -1,5 +1,5 @@
 
-<a><img src='https://files.catbox.moe/7nf8cb.jpg'/></a>
+<a><img src='https://files.catbox.moe/e2sy8u.jpg'/></a>
   <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ffcc, #33ff33, #ffcc00); 
                -webkit-background-clip: text; 
                color: transparent; 
