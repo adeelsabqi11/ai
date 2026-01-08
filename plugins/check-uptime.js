@@ -119,8 +119,8 @@ ${config.DESCRIPTION}`;
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363404256215058@newsletter',
-                    newsletterName: config.OWNER_NAME || '𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃',
+                    newsletterJid: '120363407804667405@newsletter',
+                    newsletterName: config.OWNER_NAME || 'ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ',
                     serverMessageId: 143
                 }
             }
@@ -131,3 +131,4 @@ ${config.DESCRIPTION}`;
         reply(`❌ Error: ${e.message}`);
     }
 });
+    
