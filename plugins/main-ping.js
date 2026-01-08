@@ -1,18 +1,15 @@
 const config = require('../config');
 const { cmd, commands } = require('../command');
 
-// Array of different fancy text styles for 𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃
+// Array of different fancy text styles for ᗰᗩᖴIᗩᗪᗴᗴᒪ
 const botNameStyles = [
-    "𝐅𝐚𝐢𝐳𝐚𝐧-𝗠𝗱",
-    "𝙵𝙰𝙸𝚉𝙰𝙽- 𝙼𝙳",
-    "𝓕𝓪𝓲𝔃𝓪𝓷-ℳ𝒟",
-    "𝔉𝔞𝔦𝔷𝔞𝔫-𝔐𝔡",
-    "𝕱𝖆𝖎𝖟𝕬𝕹-𝕸𝕯",
-    "ⒻⒶⒾⓏⒶⓃ-ⓂⒹ",
-    "ℱ𝔸𝕀ℤ𝔸ℕ-𝕄𝔻",
-    "𝔉",
-    "𝓕𝓪𝓲𝔃𝓪𝓷-𝓜𝓓",
-    "𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃"
+    "ᗪᗩᖇK-ᗰᗩᖴIᗩ-ᗰᗪ",
+    "ᴅᴀʀᴋ-ᴍᴀғɪᴀ-ᴍᴅ",
+    "𝐃𝐀𝐑𝐊-𝐌𝐀𝐅𝐈𝐀-𝐌𝐃",
+    "𝐃ᴀʀᴋ-𝐌ᴀғɪᴀ-𝐌𝙳",
+    "𝙳𝙰𝚁𝙺-𝙼𝙰𝙵𝙸𝙰-𝙼𝙳",
+    "ᗪᗩᖇK-ᗰᗩᖴIᗩ-ᗰᗪ",
+    "ᗪᗩᖇK-ᗰᗩᖴIᗩ-ᗰᗪ"
 ];
 
 // Track current style index
@@ -63,8 +60,8 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363404256215058@newsletter',
-                    newsletterName: "𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃",
+                    newsletterJid: '120363407804667405@newsletter',
+                    newsletterName: "ᗪᗩᖇK-ᗰᗩᖴIᗩ-ᗰᗪ",
                     serverMessageId: 143
                 }
             }
@@ -90,7 +87,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const message = await conn.sendMessage(from, { text: '*PINGING...*' })
         const endTime = Date.now()
         const ping = endTime - startTime
-        await conn.sendMessage(from, { text: `*🔥 𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃 SPEED : ${ping}ms*` }, { quoted: message })
+        await conn.sendMessage(from, { text: `*ᗪᗩᖇK ᗰᗩᖴIᗩ ᗰᗪ Տᑭᗴᗴᗪ : ${ping}ms*` }, { quoted: message })
     } catch (e) {
         console.log(e)
         reply(`${e}`)
